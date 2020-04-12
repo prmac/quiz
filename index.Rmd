@@ -7,6 +7,7 @@ output:
     lib_dir: libs
     theme: black
     viewDistance: 12
+    mobileViewDistance: 12
 autosize: true
 ---
 
