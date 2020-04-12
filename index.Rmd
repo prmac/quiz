@@ -6,6 +6,7 @@ output:
     self_contained: false
     lib_dir: libs
     theme: black
+    viewDistance: 7
 autosize: true
 ---
 
